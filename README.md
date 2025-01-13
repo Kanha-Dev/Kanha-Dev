@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-jumbo.gif?quality=75&auto=webp))](https://rishavchanda.io)
+[![MasterHead](https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-jumbo.gif?quality=75&auto=webp)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Kanha Gupta</h1>
 <h3 align="center">A passionate IOS developer from India</h3>
