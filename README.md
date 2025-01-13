@@ -18,7 +18,7 @@ Here are a few highlights of my journey so far:
 - 💬 Ask me about **Swift, SwiftUI, iOS Development**, and **Computer Networks**—I’d love to share insights!  
 - 🤝 Always open to connecting with like-minded individuals to explore tech-driven solutions.  
 - 📫 How to reach me: **kanhagupta.dev@gmail.com**  
-- 📄 Check out my [resume]([https://github.com/Kanha-Dev/resume-link](https://www.linkedin.com/in/gupta-kanha/overlay/1735120657424/single-media-viewer/?profileId=ACoAAC3xN7MBR3L_o5aepIOjZ3qKnaFxvLaOhbA)) to learn more about my skills and projects.
+- 📄 Check out my [resume](https://www.linkedin.com/in/gupta-kanha/overlay/1735120657424/single-media-viewer/?profileId=ACoAAC3xN7MBR3L_o5aepIOjZ3qKnaFxvLaOhbA) to learn more about my skills and projects.
 - ⚡ Fun fact: I’m learning **Japanese** (こんにちは!) and play the **drums**—because balance is key!
 
 <h3 align="left">Connect with me:</h3>
