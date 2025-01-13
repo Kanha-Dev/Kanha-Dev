@@ -7,21 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CyberSearch**
+Hi there! I’m **Kanha Gupta**, a tech enthusiast and iOS developer passionate about leveraging technology to tackle real-world challenges. With a keen interest in **iOS development**, **software engineering**, and **machine learning**, I specialize in crafting intuitive mobile applications using **Swift**, **SwiftUI**, and **modern frameworks**.  
 
-- 🌱 I’m currently learning **React, Web Development**
+I thrive on solving complex problems—whether optimizing railway cargo logistics for public-sector companies with **data-driven Python applications** or building augmented reality experiences. My technical foundation also includes expertise in **computer networks**, **operating systems**, and **data structures and algorithms**, enabling me to design efficient, scalable solutions across platforms.  
 
-- 👯 I’m looking to collaborate on **CyberSearch**
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 💬 Ask me about **Swift, SwiftUI, IOS Development**
-
-- 📫 How to reach me **kanhagupta.dev@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/gupta-kanha/overlay/1735120657424/single-media-viewer/?profileId=ACoAAC3xN7MBR3L_o5aepIOjZ3qKnaFxvLaOhbA](https://www.linkedin.com/in/gupta-kanha/overlay/1735120657424/single-media-viewer/?profileId=ACoAAC3xN7MBR3L_o5aepIOjZ3qKnaFxvLaOhbA)
-
-- ⚡ Fun fact **I know a little bit Japanese**
+Here are a few highlights of my journey so far:  
+- 🔭 I’m currently working on **CyberSearch**, an AI-powered search platform for cybersecurity insights.  
+- 🌱 I’m learning advanced **React** and expanding my skills in **Web Development**.  
+- 👯 I’m looking to collaborate on impactful projects, especially in **iOS development** and **Computer Network-based applications**.  
+- 💬 Ask me about **Swift, SwiftUI, iOS Development**, and **Computer Networks**—I’d love to share insights!  
+- 🤝 Always open to connecting with like-minded individuals to explore tech-driven solutions.  
+- 📫 How to reach me: **kanhagupta.dev@gmail.com**  
+- 📄 Discover more about my experiences on [LinkedIn](https://www.linkedin.com/in/gupta-kanha/).  
+- ⚡ Fun fact: I’m learning **Japanese** (こんにちは!) and play the **drums**—because balance is key!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
