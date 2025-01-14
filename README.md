@@ -161,7 +161,6 @@ Here are a few highlights of my journey so far:
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanha-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="kanha-dev" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanha-dev&show_icons=true&locale=en&theme=dark" alt="kanha-dev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanha-dev&theme=dark&hide_border=true" alt="kanha-dev" />
 </p>
 
 <p align="center">
